@@ -1,5 +1,5 @@
 // Fetch mascot data
-fetch("../data/mascot.json?20231102")
+fetch("../data/mascot.json?20231104")
     .then(response => response.json())
     .then(mascotData => {
         let item = mascotData.find(m => m.name === filename);

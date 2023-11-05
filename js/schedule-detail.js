@@ -70,7 +70,7 @@ function createEventDetails(item, mascots) {
 export function updateScheduleCommon(scheduleDivId, filterCallback) {
     const scheduleDiv = document.getElementById(scheduleDivId);
 
-    fetch('../data/mascot.json?20231102')
+    fetch('../data/mascot.json?20231104')
         .then(response => {
             if (!response.ok) {
                 throw new Error("HTTP error " + response.status);
@@ -78,7 +78,7 @@ export function updateScheduleCommon(scheduleDivId, filterCallback) {
             return response.json();
         })
         .then(mascots => {
-            fetch(`../data/schedule.json?20231102`)
+            fetch(`../data/schedule.json?20231104`)
                 .then(response => {
                     if (!response.ok) {
                         throw new Error("HTTP error " + response.status);
