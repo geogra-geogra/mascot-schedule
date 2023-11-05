@@ -1,11 +1,11 @@
-import { updateScheduleCommon } from './schedule-detail.js?20231102';
+import { updateScheduleCommon } from './schedule-detail.js?20231104';
 
 let today = new Date();
 today.setHours(0, 0, 0, 0);
 let mascotData;
 
 // Fetch mascot data first
-fetch("../data/mascot.json?20231102")
+fetch("../data/mascot.json?20231104")
     .then(response => response.json())
     .then(data => {
         mascotData = data;
