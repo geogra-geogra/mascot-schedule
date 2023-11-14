@@ -1,4 +1,4 @@
-import { updateScheduleCommon } from './schedule-detail.js?20231104';
+import { updateScheduleCommon } from './schedule-detail.js?20231114';
 
 function todayFilterCallback(eventDate) {
     const now = new Date();
