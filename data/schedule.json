@@ -4972,10 +4972,10 @@
         "url2": ""
     },
     {
-        "date": "",
+        "date": "2023/10/22",
         "title": "芸備線(広島-備後庄原間)開業100周年記念「第22回庄原駅前フェスタ」",
         "character": "スラィリー",
-        "remarks": "",
+        "remarks": "事前告知無し",
         "spot": "備後庄原駅",
         "lng": "",
         "lat": "",
@@ -5313,6 +5313,50 @@
         "url2": ""
     },
     {
+        "date": "2023/11/11",
+        "title": "リポビタンキッズ PLAYLOT by BørneLundフレップ＆ファイターズガール来場",
+        "character": "フレップ",
+        "remarks": "",
+        "spot": "リポビタンキッズ PLAYLOT by BørneLund",
+        "lng": "42.9900811",
+        "lat": "141.548987",
+        "url1": "https://www.hkdballpark.com/news/319/",
+        "url2": ""
+    },
+    {
+        "date": "2023/11/11",
+        "title": "泉パークタウン ストリートフェス ヒカパ 2023 ▶ 2024",
+        "character": "クラッチ/クラッチーナ",
+        "remarks": "",
+        "spot": "泉パークタウン タピオ前センターストリート",
+        "lng": "38.34160744",
+        "lat": "140.8365484",
+        "url1": "",
+        "url2": ""
+    },
+    {
+        "date": "2023/11/11",
+        "title": "ららぽーと門真・三井アウトレットパーク 大阪門真 BsGirls2023ミニライブ＆マスコットショー",
+        "character": "バファローブル/バファローベル",
+        "remarks": "",
+        "spot": "ららぽーと門真 「屋上空の広場ステージ」",
+        "lng": "34.7313403",
+        "lat": "135.5844925",
+        "url1": "https://www.buffaloes.co.jp/news/detail/202300360949.html",
+        "url2": ""
+    },
+    {
+        "date": "2023/11/11",
+        "title": "兵庫カーライフフェスタ 2023",
+        "character": "トラッキー",
+        "remarks": "",
+        "spot": "メリケンパーク",
+        "lng": "34.68204377",
+        "lat": "135.1887836",
+        "url1": "",
+        "url2": ""
+    },
+    {
         "date": "2023/11/12",
         "title": "FANS SQUARE STAGE@秋季キャンプ",
         "character": "フレップ/ポリー",
@@ -5320,6 +5364,61 @@
         "spot": "ES CON FIELD HOKKAIDO",
         "lng": "42.9900811",
         "lat": "141.548987",
+        "url1": "",
+        "url2": ""
+    },
+    {
+        "date": "2023/11/12",
+        "title": "リポビタンキッズ PLAYLOT by BørneLundフレップ＆ファイターズガール来場",
+        "character": "フレップ",
+        "remarks": "",
+        "spot": "リポビタンキッズ PLAYLOT by BørneLund",
+        "lng": "42.9900811",
+        "lat": "141.548987",
+        "url1": "https://www.hkdballpark.com/news/319/",
+        "url2": ""
+    },
+    {
+        "date": "2023/11/12",
+        "title": "第32回日高市民まつり",
+        "character": "レオ/ライナ",
+        "remarks": "事前告知無し",
+        "spot": "日高市文化体育館ひだかアリーナ",
+        "lng": "35.90927144",
+        "lat": "139.3380688",
+        "url1": "",
+        "url2": ""
+    },
+    {
+        "date": "2023/11/12",
+        "title": "館山チアアップ・千葉県誕生150周年記念パレード",
+        "character": "マーくん",
+        "remarks": "",
+        "spot": "館山市北条　鏡ヶ浦通り",
+        "lng": "35.00020253",
+        "lat": "139.8589392",
+        "url1": "",
+        "url2": ""
+    },
+    {
+        "date": "2023/11/12",
+        "title": "まつどこどもの笑顔応援フェスタ2023",
+        "character": "リーンちゃん",
+        "remarks": "",
+        "spot": "森のホール21 小ホール",
+        "lng": "35.79931923",
+        "lat": "139.9404049",
+        "url1": "",
+        "url2": ""
+    },
+    {
+        "date": "2023/11/12",
+        "title": "第1回ジャイアンツ祭り",
+        "character": "ジャビット",
+        "remarks": "",
+        "spot": "草薙総合運動場硬式野球場",
+        "lng": "34.9904159",
+        "lat": "138.4289247",
         "url1": "",
         "url2": ""
     },
@@ -5335,6 +5434,28 @@
         "url2": ""
     },
     {
+        "date": "2023/11/15",
+        "title": "かまぼこの日 楽天イーグルス抽選会",
+        "character": "クラッチ",
+        "remarks": "",
+        "spot": "阿部蒲鉾店 本店",
+        "lng": "38.26096865",
+        "lat": "140.8749676",
+        "url1": "https://x.com/abekamabokoten/status/1724238715281985740?s=20",
+        "url2": ""
+    },
+    {
+        "date": "2023/11/18",
+        "title": "[WEリーグ]マイナビ仙台対INAC神戸@ユアスタ12:10開始",
+        "character": "クラッチーナ",
+        "remarks": "",
+        "spot": "ユアテックスタジアム仙台",
+        "lng": "38.31914565",
+        "lat": "140.8819033",
+        "url1": "",
+        "url2": ""
+    },
+    {
         "date": "2023/11/19",
         "title": "MARINES FAN FEST 2023",
         "character": "マーくん/リーンちゃん/ズーちゃん",
@@ -5343,6 +5464,17 @@
         "lng": "35.645158",
         "lat": "140.030831",
         "url1": "",
+        "url2": ""
+    },
+    {
+        "date": "2023/11/19",
+        "title": "戸田マラソンin彩湖2023",
+        "character": "つばみ",
+        "remarks": "",
+        "spot": "道満グリーンパーク",
+        "lng": "35.82156115",
+        "lat": "139.6311916",
+        "url1": "https://www.yakult-swallows.co.jp/news/detail/29097",
         "url2": ""
     },
     {
@@ -5500,6 +5632,17 @@
         "url2": ""
     },
     {
+        "date": "2023/12/16",
+        "title": "つば九郎&ドアラ クリスマスディナーショー2023",
+        "character": "つば九郎/ドアラ",
+        "remarks": "",
+        "spot": "ホテル国際２１",
+        "lng": "36.65195435",
+        "lat": "138.1823153",
+        "url1": "https://www.kokusai21.jp/event/detail.php?id=576",
+        "url2": ""
+    },
+    {
         "date": "2023/12/17",
         "title": "千葉ロッテマリーンズ、千葉イオンモールコラボ べースボールフェス＠イオンモール幕張新都心",
         "character": "マーくん",
@@ -5508,6 +5651,116 @@
         "lng": "35.65472937",
         "lat": "140.030332",
         "url1": "https://makuharishintoshin-aeonmall.com/news/event/9302",
+        "url2": ""
+    },
+    {
+        "date": "2023/12/17",
+        "title": "京急百貨店・ウィング上大岡 PRESENTS 横浜DeNAベイスターズ クリスマストークショー 2023",
+        "character": "DB.スターマン/DB.キララ",
+        "remarks": "",
+        "spot": "港南区民文化センター「ひまわりの郷」ホール",
+        "lng": "35.40780617",
+        "lat": "139.59646",
+        "url1": "https://www.baystars.co.jp/news/2023/11/1111_01.php",
+        "url2": ""
+    },
+    {
+        "date": "2023/12/18",
+        "title": "ヴィーナス＆ジャビット Winter Stage ～23年メンバー卒業式＆24年新メンバー発表～",
+        "character": "ジャビット",
+        "remarks": "",
+        "spot": "KFC Hall＆Rooms",
+        "lng": "35.69816411",
+        "lat": "139.7969789",
+        "url1": "https://www.giants.jp/news/21944/",
+        "url2": ""
+    },
+    {
+        "date": "2023/12/19",
+        "title": "つば九郎＆ドアラ Bクラスお詫び行脚 with ハリーホーク～純喫茶の街 名古屋リターンズ編～",
+        "character": "ドアラ/シャオロン/パオロン/つば九郎",
+        "remarks": "",
+        "spot": "名古屋市芸術創造センター",
+        "lng": "35.17279616",
+        "lat": "136.9199617",
+        "url1": "https://dragons.jp/news/2023/mascot-stageshow.php",
+        "url2": ""
+    },
+    {
+        "date": "2023/12/23",
+        "title": "THE FINALS‐diana2023-",
+        "character": "DB.スターマン/DB.キララ /BART/CHAPY",
+        "remarks": "",
+        "spot": "関内ホール 大ホール",
+        "lng": "35.44738504",
+        "lat": "139.6359337",
+        "url1": "https://www.baystars.co.jp/news/2023/11/1101_04.php",
+        "url2": ""
+    },
+    {
+        "date": "2023/12/24",
+        "title": "M☆Splash!! 2023 Last Revue",
+        "character": "マーくん/リーンちゃん/ズーちゃん",
+        "remarks": "",
+        "spot": "ホテルスプリングス幕張･スプリングスホール",
+        "lng": "35.64900258",
+        "lat": "140.0443041",
+        "url1": "https://www.marines.co.jp/news/detail/202300412143.html",
+        "url2": ""
+    },
+    {
+        "date": "2024/01/13",
+        "title": "つば九郎&ドアラ Bクラスお詫び行脚 withハリーホーク　～1つば・2鷹・3ドアラ～",
+        "character": "つば九郎/ドアラ/ハリーホーク",
+        "remarks": "",
+        "spot": "BOSS E・ZO FUKUOKA",
+        "lng": "33.59545588",
+        "lat": "130.3637615",
+        "url1": "https://www.softbankhawks.co.jp/news/detail/202300439615.html",
+        "url2": ""
+    },
+    {
+        "date": "2024/01/14",
+        "title": "つば九郎&ドアラ Bクラスお詫び行脚 withハリーホーク　～1つば・2鷹・3ドアラ～",
+        "character": "つば九郎/ドアラ/ハリーホーク",
+        "remarks": "",
+        "spot": "BOSS E・ZO FUKUOKA",
+        "lng": "33.59545588",
+        "lat": "130.3637615",
+        "url1": "https://www.softbankhawks.co.jp/news/detail/202300439615.html",
+        "url2": ""
+    },
+    {
+        "date": "2024/01/21",
+        "title": "つば九郎・ドアラ ニューイヤーディナーショー2024",
+        "character": "つば九郎/ドアラ",
+        "remarks": "",
+        "spot": "ホテル日航金沢",
+        "lng": "36.5764614",
+        "lat": "136.649483",
+        "url1": "https://www.hnkanazawa.jp/news/single.php?id=97",
+        "url2": ""
+    },
+    {
+        "date": "2024/01/28",
+        "title": "つば九郎＆ドアラ Bクラスお詫び行脚 with ハリーホーク『Beどうし』～WE ARE B くらす～",
+        "character": "つば九郎/ドアラ/ハリーホーク",
+        "remarks": "",
+        "spot": "ザ・プリンスパークタワー東京",
+        "lng": "35.65541226",
+        "lat": "139.7470853",
+        "url1": "https://www.yakult-swallows.co.jp/pages/info/event/dinner_show2024",
+        "url2": ""
+    },
+    {
+        "date": "2024/01/28",
+        "title": "つば九郎＆ドアラ Bクラスお詫び行脚 with ハリーホーク『Beどうし』～WE ARE B くらす～",
+        "character": "つば九郎/ドアラ/ハリーホーク",
+        "remarks": "",
+        "spot": "ザ・プリンスパークタワー東京",
+        "lng": "35.65541226",
+        "lat": "139.7470853",
+        "url1": "https://www.yakult-swallows.co.jp/pages/info/event/dinner_show2024",
         "url2": ""
     }
 ]
