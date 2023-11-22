@@ -1,4 +1,4 @@
-import { updateSchedule } from './schedule.js?20231114';
+import { updateSchedule } from './schedule.js?20231122';
 
 let date = new Date();
 let currentMonth = date.getMonth() + 1; // JavaScript months are 0-11
