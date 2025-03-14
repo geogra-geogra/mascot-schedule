@@ -1,7 +1,8 @@
 ## 推しのスケジュールまとめ
 
-[「球団マスコットの情報。」](https://baseball-mascot.com)のコードです。
+[「球団マスコットの情報。」](https://baseball-mascot.com)のコードだったものです。
 汎用性を持たせたものは、[推し乃介](https://github.com/geogra-geogra/oshinosuke)として公開しています。
+→2024年12月にSveltekitとヘッドレスCMSを用いたコードに変更したため現在は使用していません
 
 ### データの作り方
 Excelで作成したデータをJson形式でインプットし、公開しています。
